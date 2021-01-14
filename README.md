@@ -106,12 +106,17 @@ I want to make difference and willing to work hard for skillful career rather th
 - ⚡ Fun fact: ... -->
 <hr>
 
-<p align="center">
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+</p>
+
+<!--<p align="center">
 <summary>:zap: Github Stats</summary>
 
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
-
+--->
 -----
