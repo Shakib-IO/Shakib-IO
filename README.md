@@ -15,7 +15,7 @@
 -->
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges.
 <br>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px"/>
+<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px"/>
 
 - 🔭 I’m currently working on Project Based Topics
 - 🌱 I’m currently learning Deep learning & Economics 
