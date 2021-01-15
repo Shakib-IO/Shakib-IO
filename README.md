@@ -15,7 +15,7 @@
 -->
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges.
 <br>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px"/>
+<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px"/>
 
 - 🔭 I’m currently working on Project Based Topics
 - 🌱 I’m currently learning Deep learning & Economics 
@@ -34,7 +34,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/plot_ly-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
@@ -63,6 +62,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
+
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
 </p>
 -->
 
@@ -105,8 +106,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <hr>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Shakib-IO&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib-IO&hide=css,java,html&theme=tokyonight">
 </p>
 
 <!--<p align="center">
