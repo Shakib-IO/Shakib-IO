@@ -20,7 +20,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🔭 I’m currently working on Project Based Topics
 - 🌱 I’m currently learning Deep learning & Economics 
 - 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for help with Quantum Computing stuff
+- 🤔 I’m looking for help with Quantum Computing stuff<br>
 - 💬 Ask me about Python
 - 🔨 Time Complexity (n!)
 
@@ -99,7 +99,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <!--
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
-
 -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
