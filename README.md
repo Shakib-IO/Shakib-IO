@@ -106,8 +106,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <hr>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Shakib-IO&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib-IO&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username = Shakib-IO&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username  =Shakib-IO&hide=css,java,html&theme=tokyonight">
 </p>
 
 <!--<p align="center">
