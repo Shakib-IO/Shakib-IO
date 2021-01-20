@@ -33,7 +33,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/Tensorflow.svg"> </code>  
+<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/Tensorflow.svg"> </code>
+<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/scikitlearn.svg"> </code> 
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/plot_ly-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
