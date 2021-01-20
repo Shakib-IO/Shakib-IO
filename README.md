@@ -38,7 +38,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
 <code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/tableau.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
