@@ -22,7 +22,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for help with Quantum Computing stuff<br>
 - 💬 Ask me about Python
-- 🔨 Time Complexity (n!)
+- 🔨 P vs NP
 
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/khansakib66/)
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/sakibkhan66/) 
@@ -36,22 +36,16 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/plot_ly-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
-<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/tableau.svg"> </code>
-<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/sda.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
+<code> <img height="50" src="https://github.com/Shakib-IO/profileresource/blob/main/Tableau.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/cloudera-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/gdal-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/redis-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/surgesh-ar21.svg"> </code>
 <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
 <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 </p>
@@ -63,8 +57,11 @@ I want to make difference and willing to work hard for skillful career rather th
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
-
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/gdal-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/redis-ar21.svg"> </code>
 </p>
 -->
 
