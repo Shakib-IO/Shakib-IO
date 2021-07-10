@@ -1,5 +1,5 @@
 ## Hi there, 👋  I'm Shakib Khan
-### Python Dev | Data Scientist |  Machine Learning Enthusiastic | DevOps 
+### Python Dev | Data Scientist |  Machine Learning Enthusiastic | <!--DevOps -->
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. & I’ve completed my graduation from CSE year of 2016. -->
 <!-- [ada-asia](https://ada-asia.com/)
