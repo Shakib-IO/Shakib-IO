@@ -35,6 +35,8 @@ I want to make difference and willing to work hard for skillful career rather th
 [![Gmail](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
 
 
+[![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
+
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/zahidunnabi)](https://www.kaggle.com/zahidunnabi)
 
 ## Experienced with 
