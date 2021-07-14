@@ -1,25 +1,8 @@
 ## Hi there, 👋  I'm Shakib Khan
 ### Python Dev | Data Scientist |  Machine Learning Enthusiastic | <!--DevOps -->
 
-<!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. & I’ve completed my graduation from CSE year of 2016. -->
-<!-- [ada-asia](https://ada-asia.com/)
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
-- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
--->
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges.
 <br>
-<!-- <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px"/> 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/khansakib66/)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/sakibkhan66/) 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/Sakib_kh_an)
--->
 
 - 🔭 I’m currently working on Project Based Topics
 - 🌱 I’m currently learning Deep learning & Economics 
@@ -27,17 +10,15 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🤔 I’m looking for help with Quantum Computing stuff<br>
 - 💬 Ask me about Python
 - 🔨 P vs NP
-
-
+<br>
+## Profile's
 [![Linkedin Badge](https://img.shields.io/badge/-sakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakibkhan66/)](https://www.linkedin.com/in/sakibkhan66/)
 [![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
 [![Gmail Badge](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
 <a href="https://www.facebook.com/khansakib66" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://discord.com/channels/@me/520317013206237184" target="_blank"><img src="https://img.shields.io/badge/Scapula#5843-%231877F2.svg?&style=flat-square&logo=discord&logoColor=#7289DA" alt="Discord"></a>
-
-
-
+[![Discord Badge](https://img.shields.io/badge/%20-Scapula#5843%20-black?color=14171A&labelColor=ffffff&logo=discord&logoColor=7289d9)](https://discord.com/channels/@me/520317013206237184)
+<br>
 ## Experienced with 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
