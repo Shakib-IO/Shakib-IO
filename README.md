@@ -34,9 +34,8 @@ I want to make difference and willing to work hard for skillful career rather th
 [![Gmail Badge](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
 <a href="https://www.facebook.com/khansakib66" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-[![Discord Badge](https://img.shields.io/badge/-Scapula#5843-000000?style=flat&labelColor=000000&logo=Discord&link=https:discord.com/channels/@me/520317013206237184/)](https:discord.com/channels/@me/520317013206237184)
+<a href="https://discord.com/channels/@me/520317013206237184" target="_blank"><img src="https://img.shields.io/badge/Scapula#5843-%231877F2.svg?&style=flat-square&logo=discord&logoColor=#7289DA" alt="Discord"></a>
 
-[![Discord Badge](https://img.shields.io/badge/-Scapula#5843-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@me/520317013206237184)[https://discord.com/channels/@me/520317013206237184]
 
 
 ## Experienced with 
