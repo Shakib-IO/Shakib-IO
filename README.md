@@ -30,7 +30,11 @@ I want to make difference and willing to work hard for skillful career rather th
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakibkhan66/)](https://www.linkedin.com/in/sakibkhan66/)
-[![Medium Badge](https://img.shields.io/badge/-@sakibkhan?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
+[![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
+
+
+[![Medium Badge](https://img.shields.io/badge/-@zahid.uan-000000?style=flat&labelColor=000000&logo=Medium&link=https://zahid-uan-nabi.medium.com/)](https://zahid-uan-nabi.medium.com/)
+
 [![Twitter Badge](https://img.shields.io/badge/-Sakib_kh_an?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
 [![Hotmail Badge](https://img.shields.io/badge/zahid-hotmail-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/zahidunnabi)](https://www.kaggle.com/zahidunnabi)
