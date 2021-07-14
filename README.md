@@ -33,6 +33,9 @@ I want to make difference and willing to work hard for skillful career rather th
 [![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
 [![Gmail Badge](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
+
+[![Discord Badge](https://img.shields.io/badge/-Scapula#5843-000000?style=flat&labelColor=000000&logo=Discord&link=https:discord.com/channels/@me/520317013206237184/)](https:discord.com/channels/@me/520317013206237184)
+
 [![Discord Badge](https://img.shields.io/badge/-Scapula#5843-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@me/520317013206237184)[https://discord.com/channels/@me/520317013206237184]
 
 
