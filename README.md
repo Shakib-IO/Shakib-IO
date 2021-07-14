@@ -11,6 +11,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 💬 Ask me about Python
 - 🔨 P vs NP
 <br>
+
 ## Profile's
 [![Linkedin Badge](https://img.shields.io/badge/-sakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakibkhan66/)](https://www.linkedin.com/in/sakibkhan66/)
 [![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
@@ -18,7 +19,9 @@ I want to make difference and willing to work hard for skillful career rather th
 [![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
 <a href="https://www.facebook.com/khansakib66" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Discord Badge](https://img.shields.io/badge/%20-Scapula#5843%20-black?color=14171A&labelColor=ffffff&logo=discord&logoColor=7289d9)](https://discord.com/channels/@me/520317013206237184)
+
 <br>
+
 ## Experienced with 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
