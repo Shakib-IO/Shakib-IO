@@ -132,10 +132,20 @@ I want to make difference and willing to work hard for skillful career rather th
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <hr>
-
+<!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Shakib-IO&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib-IO&hide=css,java,html&theme=tokyonight">
+</p>
+-->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Shakib-IO">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shakib-IO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shakib-IO&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!--<p align="center">
