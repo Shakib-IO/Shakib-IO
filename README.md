@@ -18,8 +18,8 @@ I want to make difference and willing to work hard for skillful career rather th
 [![Linkedin Badge](https://img.shields.io/badge/-sakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakibkhan66/)](https://www.linkedin.com/in/sakibkhan66/)
 [![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
 [![Gmail Badge](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
 <a href="https://sakibkhan.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan's-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+[![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
 <a href="https://www.facebook.com/khansakib66" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://discord.com/channels/@me/520318357854093322/" target="_blank"><img src="https://img.shields.io/badge/Scapula5843-%231877F2.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
