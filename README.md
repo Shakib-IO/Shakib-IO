@@ -31,11 +31,7 @@ I want to make difference and willing to work hard for skillful career rather th
 
 [![Linkedin Badge](https://img.shields.io/badge/-sakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakibkhan66/)](https://www.linkedin.com/in/sakibkhan66/)
 [![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
-[![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1 style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link= https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
-[![Hotmail Badge](https://img.shields.io/badge/zahid-hotmail-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
-
-
-
+[![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link= https://twitter.com/Sakib_kh_an)] (https://twitter.com/Sakib_kh_an)
 [![Gmail](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
 
 
