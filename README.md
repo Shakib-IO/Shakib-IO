@@ -1,21 +1,8 @@
 ## Hi there, 👋  I'm Shakib Khan
-### Python Dev | Data Scientist |  Machine Learning Enthusiastic | DevOps 
+### Python Dev | Data Scientist |  Machine Learning Enthusiastic | <!--DevOps -->
 
-<!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. & I’ve completed my graduation from CSE year of 2016. -->
-<!-- [ada-asia](https://ada-asia.com/)
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
-- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
--->
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges.
 <br>
-<!-- <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px"/> -->
 
 - 🔭 I’m currently working on Project Based Topics
 - 🌱 I’m currently learning Deep learning & Economics 
@@ -23,12 +10,41 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🤔 I’m looking for help with Quantum Computing stuff<br>
 - 💬 Ask me about Python
 - 🔨 P vs NP
+<br>
 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/khansakib66/)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/sakibkhan66/) 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/Sakib_kh_an)
+## Profile's
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-sakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakibkhan66/)](https://www.linkedin.com/in/sakibkhan66/)
+[![Twitter Badge](https://img.shields.io/badge/-@Sakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
+[![Gmail Badge](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
+<a href="https://sakibkhan.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan's-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+[![Medium Badge](https://img.shields.io/badge/-@sakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sakibkhan/)](https://medium.com/@sakibkhan)
+<a href="https://www.facebook.com/khansakib66" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://discord.com/channels/@me/520318357854093322/" target="_blank"><img src="https://img.shields.io/badge/Scapula5843-%231877F2.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+
+<br>
 
 ## Experienced with 
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+
+<!--- 
 <p align="center" >
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
@@ -52,7 +68,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 </p>
 
-<!--- 
 ###  
 <p align="Center">
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
@@ -104,10 +119,20 @@ I want to make difference and willing to work hard for skillful career rather th
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <hr>
-
+<!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Shakib-IO&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib-IO&hide=css,java,html&theme=tokyonight">
+</p>
+-->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Shakib-IO">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shakib-IO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shakib-IO&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!--<p align="center">
