@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/%20-khansakib299%20-red?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:khansakib299@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-@shakibkhan66-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakibkhan66/)](https://www.linkedin.com/in/shakibkhan66/)
 [![Twitter Badge](https://img.shields.io/badge/-@Shakib_kh_an-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sakib_kh_an)](https://twitter.com/Sakib_kh_an)
-<a href="https://sakibkhan.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Sakib Khan's-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+<a href="https://sakibkhan.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Shakib Khan-%232962FF.svg?&style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 [![Medium Badge](https://img.shields.io/badge/-@shakibkhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@shakibkhan)](https://medium.com/@shakibkhan66)
 <a href="https://www.facebook.com/khansakib66" target="_blank"><img src="https://img.shields.io/badge/Shakib Khan-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <br>
