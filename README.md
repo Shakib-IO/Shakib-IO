@@ -25,7 +25,7 @@
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="65" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="70" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br>
 <br>
 
