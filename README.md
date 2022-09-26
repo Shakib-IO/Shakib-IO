@@ -89,7 +89,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 </p>
 
-###  
 <p align="Center">
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
@@ -104,7 +103,6 @@ I want to make difference and willing to work hard for skillful career rather th
 -->
 
 <!--- 
-### 
 
 <p align="center">
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
