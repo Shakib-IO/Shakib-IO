@@ -54,7 +54,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for help with Quantum Computing stuff<br>
 - 💬 Ask me about Python
-- 🔨 P vs NP
+- 🔨 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
