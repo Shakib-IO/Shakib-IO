@@ -150,10 +150,8 @@ I want to make difference and willing to work hard for skillful career rather th
 
 <!--<p align="center">
 <summary>:zap: Github Stats</summary>
-
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
 </p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 --->
 
