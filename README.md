@@ -39,7 +39,6 @@
 </a>
 </p>
 
-
 <code> <img height="30" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg"> </code>
 
 <!-- Extra's -->
