@@ -30,7 +30,6 @@
 <br>
 
 ## GitHub Analytics
-
 <p align="cemtre">
 <a href="https://github.com/Shakib-IO">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shakib-IO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
